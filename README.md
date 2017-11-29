@@ -3,7 +3,7 @@ This repository contains the data created as part of:
 
 [Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) and [Roth, Benjamin](https://sites.google.com/site/rothbenj/) (2017). **"Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features"**. Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan, November 27 - December 30, 2017.
 
-[PDF](http://marc.schulder.info/data/SchulderWiegandRuppenhoferRoth2017.pdf)
+[PDF](http://aclweb.org/anthology/I17-1063)
 
 ## Content
 The supplementary data of this paper consists of:
