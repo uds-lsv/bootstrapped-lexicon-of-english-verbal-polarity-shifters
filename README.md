@@ -38,6 +38,21 @@ Every item consists of:
 - Predicted labels for VP and polar noun by RNTN tagger (Socher et al., 2013) and `LEX_gold` approach.
 - Items are separated by a line of asterisks (*)
 
+## BibTex
+```
+@inproceedings{schulder2017shifter,
+  title={Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features},
+  author={Schulder, Marc and Wiegand, Michael and Ruppenhofer, Josef and Roth, Benjamin},
+  booktitle={Proceedings of the Eighth International Joint Conference on Natural Language Processing},
+  year={2017},
+  publisher={Asian Federation of Natural Language Processing},
+  volume={1},
+  pages={624--633},
+  location={Taipei, Taiwan},
+  url={http://aclweb.org/anthology/I17-1063}
+}
+```
+
 ## References
 G. Miller, R. Beckwith, C. Fellbaum, D. Gross, K. Miller: "Introduction to WordNet: An On-Line Lexical Database". International Journal of Lexicography, 3:235-244, 1990.
 
