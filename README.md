@@ -6,7 +6,11 @@ This repository contains the data created as part of:
 [PDF](http://aclweb.org/anthology/I17-1063)
 
 ## Content
-The supplementary data of this paper consists of:
+We provide a bootstrapped lexicon of English verbal polarity shifters.
+Our lexicon covers 3043 verbs of WordNet v3.1 (Miller et al., 1990) that are single word or particle verbs.
+Polarity shifter labels are given for each word lemma.
+
+The data consists of:
 1. Two lists of WordNet verbs (Miller et al., 1990), annotated for whether they cause shifting.
     1. The initial gold standard (§2) of 2000 randomly chosen verbs.
     2. The bootstrapped 1043 verbs (§5.3) that were labelled as shifters by our best classifier and then manually annotated.
@@ -39,7 +43,8 @@ Every item consists of:
 - Items are separated by a line of asterisks (*)
 
 ## Attribution
-This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters/blob/master/LICENSE)
+This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters/blob/master/LICENSE).
+
 If you use it in your research or work, please cite the publication (see above).
 
 ### BibTex
