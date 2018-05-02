@@ -38,7 +38,11 @@ Every item consists of:
 - Predicted labels for VP and polar noun by RNTN tagger (Socher et al., 2013) and `LEX_gold` approach.
 - Items are separated by a line of asterisks (*)
 
-## BibTex
+## Attribution
+This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters/blob/master/LICENSE)
+If you use it in your research or work, please cite the publication (see above).
+
+### BibTex
 ```
 @inproceedings{schulder2017shifter,
   title={Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features},
