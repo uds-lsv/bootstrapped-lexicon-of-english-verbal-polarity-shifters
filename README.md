@@ -57,7 +57,7 @@ If you use it in your research or work, please cite the publication (see above).
   publisher={Asian Federation of Natural Language Processing},
   volume={1},
   pages={624--633},
-  location={Taipei, Taiwan},
+  address={Taipei, Taiwan},
   url={http://aclweb.org/anthology/I17-1063}
 }
 ```
