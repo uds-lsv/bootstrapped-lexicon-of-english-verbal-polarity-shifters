@@ -3,13 +3,21 @@ This repository contains the data created as part of:
 
 [Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) and [Benjamin Roth](https://sites.google.com/site/rothbenj/) (2017). **"Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features"**. Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan, November 27 - December 3, 2017.
 
-[PDF](http://aclweb.org/anthology/I17-1063)
-
 ## Content
 We provide a bootstrapped lexicon of English verbal polarity shifters.
 Our lexicon covers 3043 verbs of WordNet v3.1 (Miller et al., 1990) that are single word or particle verbs.
 Polarity shifter labels are given for each word lemma.
 
+### Resources
+- **Paper:** [ACL Anthology](http://aclweb.org/anthology/I17-1063)
+- **Poster:** [Link](http://marc.schulder.info/files/slides/2017_11_bootstrapped-lexicon-of-english-verbal-polarity-shifters.pdf)
+- **Data:** See content of this repository
+
+#### Related Resources
+- **[LREC 2018](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level)
+- **[COLING 2018](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level)
+
+# Data
 The data consists of:
 1. Two lists of WordNet verbs (Miller et al., 1990), annotated for whether they cause shifting.
     1. The initial gold standard (§2) of 2000 randomly chosen verbs.
@@ -17,7 +25,7 @@ The data consists of:
 2. Data set of verb phrases from the Amazon Product Review Data corpus (Jindal & Liu, 2008), annotated for polarity of phrase and polar noun.
 
 
-## Verbal Shifters
+## 1. Verbal Shifters
 ### Files
   - The initial gold standard: `verbal_shifters.gold_standard.txt`
   - The bootstrapped verbs: `verbal_shifters.bootstrapping.txt`
@@ -27,7 +35,7 @@ The data consists of:
 - Multiword expressions are separated by an underscore (WORD_WORD).
 - All labels were assigned by an expert annotator.
 
-## Sentiment Verb Phrases
+## 2. Sentiment Verb Phrases
 ### Files
 - All annotated verb phrases: `sentiment_phrases.txt`
 
