@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3364812.svg)](https://doi.org/10.5281/zenodo.3364812)
+
 # Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features
 This repository contains the data created as part of:
 
