@@ -3,7 +3,7 @@
 
 This repository contains the data created as part of:
 
-[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) and [Benjamin Roth](https://sites.google.com/site/rothbenj/) (2017). **"Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features"**. Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan, November 27 - December 3, 2017.
+[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) and [Benjamin Roth](https://sites.google.com/site/rothbenj/) (2017). [**"Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features"**](https://aclweb.org/anthology/I17-1063). Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan, November 27 - December 3, 2017.
 
 ## Content
 We provide a bootstrapped lexicon of English verbal polarity shifters.
@@ -11,7 +11,7 @@ Our lexicon covers 3043 verbs of WordNet v3.1 (Miller et al., 1990) that are sin
 Polarity shifter labels are given for each word lemma.
 
 ### Resources
-- **Paper:** [ACL Anthology](http://aclweb.org/anthology/I17-1063)
+- **Paper:** [ACL Anthology](https://aclweb.org/anthology/I17-1063)
 - **Poster:** [Link](http://marc.schulder.info/files/slides/2017_11_bootstrapped-lexicon-of-english-verbal-polarity-shifters.pdf)
 - **Data:** See content of this repository
 
