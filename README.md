@@ -7,7 +7,7 @@ This repository contains the data created as part of:
 
 ## Content
 We provide a bootstrapped lexicon of English verbal polarity shifters.
-Our lexicon covers 3043 verbs of WordNet v3.1 (Miller et al., 1990) that are single word or particle verbs.
+Our lexicon covers 3043 verbs of [WordNet](https://wordnet.princeton.edu/) v3.1 (Miller et al., 1990) that are single word or particle verbs.
 Polarity shifter labels are given for each word lemma.
 
 ### Resources
