@@ -14,6 +14,8 @@ Polarity shifter labels are given for each word lemma.
 - **Paper:** [ACL Anthology](https://aclweb.org/anthology/I17-1063)
 - **Poster:** [Link](http://marc.schulder.info/files/slides/2017_11_bootstrapped-lexicon-of-english-verbal-polarity-shifters.pdf)
 - **Data:** See content of this repository
+- **Word Embedding:** [Link](https://doi.org/10.5281/zenodo.3370051)
+
 
 #### Related Resources
 - **[LREC 2018](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level)
