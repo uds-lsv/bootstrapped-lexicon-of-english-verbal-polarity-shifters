@@ -1,4 +1,4 @@
-# Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features
+# Bootstrapped Lexicon of English Verbal Polarity Shifters
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3364811.svg)](https://doi.org/10.5281/zenodo.3364811)
 
 This repository contains the data created as part of:
